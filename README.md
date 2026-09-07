@@ -9,7 +9,7 @@ Bridging three decades of deep quality engineering and consumer device software 
 
 ### 🚀 What I'm Building
 
-- 🛠️ **Enterprise Test Management Platform** — Sole architect and developer of an enterprise-scale Test Management System (TMS) built on **NestJS** with full **TestRail API compatibility**, robust CRUD architecture, and production scale.
+- 🛠️ **Enterprise Test Platform & Orchestration** — Architect and developer of an internal, high-performance Test Management service built on **NestJS** featuring full **TestRail API compatibility**, robust CRUD architecture, and automated test execution pipelines.
 - 📱 **Stealth Streaming Platform** — Developing a cross-platform consumer streaming and device connectivity application using **React Native** and modern networking protocols.
 - 🧠 **Distributed Local AI & LLM Lab** — Architected a multi-node home research cluster across **Pop!_OS** (Nvidia GPU) and **Apple Silicon (dual Mac Minis)** for local model benchmarking, inference testing, and agentic workflows.
 - 🍓 **Edge & Network Infrastructure** — Maintaining dual Raspberry Pi clusters running **Pi-hole**, **WireGuard / VPN**, and network automation.
@@ -42,5 +42,6 @@ Learned from and mentored by some of the most exacting engineers in consumer tec
 ---
 
 ### 📫 Connect
+- **LinkedIn:** [linkedin.com/in/chrissommersqa](https://www.linkedin.com/in/chrissommersqa/)
 - **Email:** [chris.sommers@icloud.com](mailto:chris.sommers@icloud.com)
 - **GitHub:** [@baseman70](https://github.com/baseman70)
