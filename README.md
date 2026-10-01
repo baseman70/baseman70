@@ -10,7 +10,7 @@ Bridging three decades of deep quality engineering and consumer device software 
 ### 🚀 What I'm Building
 
 - 🛠️ **Enterprise Test Platform & Orchestration** — Architect and developer of an internal, high-performance Test Management service built on **NestJS** featuring full **TestRail API compatibility**, robust CRUD architecture, and automated test execution pipelines.
-- 📱 **[Stealth Streaming Platform](https://github.com/baseman70/linkmystreamer-showcase)** — Developing a cross-platform consumer streaming and device connectivity application using **React Native** and modern networking protocols.
+- 🎵 **LinkMyStreamer** — [baseman70/linkmystreamer-showcase](https://github.com/baseman70/linkmystreamer-showcase) — One link. Any music app. Universal music links for Spotify, Apple Music, YouTube, Tidal, Deezer. React Native + TypeScript. Currently in closed beta.
 - 🧠 **Distributed Local AI & LLM Lab** — Architected a multi-node home research cluster across **Pop!_OS** (Nvidia GPU) and **Apple Silicon (dual Mac Minis)** for local model benchmarking, inference testing, and agentic workflows.
 - 🍓 **Edge & Network Infrastructure** — Maintaining dual Raspberry Pi clusters running **Pi-hole**, **WireGuard / VPN**, and network automation.
 
