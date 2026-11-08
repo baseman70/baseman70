@@ -5,8 +5,8 @@ Senior Systems & Quality Engineer. 30+ years in software quality, consumer devic
 ## Projects
 
 - [cable-uhid-bridge](https://github.com/baseman70/cable-uhid-bridge): Linux user-space daemon (Rust) that emulates a USB FIDO2 security key over `/dev/uhid` and tunnels WebAuthn requests to iOS and Android passkeys via FIDO Hybrid Transport (caBLE v2).
-- [lab-ctl](https://github.com/baseman70/lab-ctl): Agentless SSH fleet management, security auditing, and DNS/network automation CLI for a mixed Linux (Arch, Ubuntu, Debian/Raspberry Pi) and macOS (Apple Silicon) home lab.
 - [LinkMyStreamer](https://github.com/baseman70/linkmystreamer-showcase) ([linkmystreamer.com](https://www.linkmystreamer.com)): Cross-platform music link resolver (React Native, Expo, TypeScript) that routes shared tracks directly into native streaming apps via iOS Universal Links and Android App Links.
+- `lab-ctl`: Agentless SSH fleet management, security auditing, and DNS/network automation CLI for a mixed Linux (Arch, Ubuntu, Debian/Raspberry Pi) and macOS (Apple Silicon) lab.
 
 ## Upstream Contributions
 
